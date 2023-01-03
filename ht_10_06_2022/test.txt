@@ -1,0 +1,126 @@
+1
+3 0
+i 7234
+i 8234
+i 9234
+
+1
+3 1
+i 7234
+i 8234
+i 9234
+
+1
+3 2
+i 7234
+i 8234
+i 9234
+
+1
+3 3
+i 7234
+i 8234
+i 9234
+
+1
+30 3
+i 12345
+i 1334
+i 1534
+i 3234
+i 5234
+i 7234
+i 8234
+i 9234
+r 5234
+i 234
+i 12345
+i 1334
+i 1534
+i 3234
+i 5234
+i 7234
+i 8234
+i 9234
+r 5234
+i 234
+i 12345
+i 1334
+i 1534
+i 3234
+i 5234
+i 7234
+i 8234
+i 9234
+r 5234
+i 234
+
+2
+12 2
+i C
+i i
+i t
+i M
+r C
+i u
+i P
+i l
+i f
+i W
+r o
+i s
+
+
+2
+12 2
+i C
+i i
+i t
+i M
+i C
+i u
+i P
+i l
+i f
+i W
+r o
+i s
+
+2
+36 2
+i C
+i i
+i t
+i M
+i C
+i u
+i P
+i l
+i f
+i W
+i o
+i s
+i a
+i b
+i c
+i d
+i e
+i f
+i C
+i i
+i t
+i M
+i C
+i u
+i P
+i l
+i f
+i W
+i o
+i s
+i a
+i b
+i c
+i d
+i e
+i f
